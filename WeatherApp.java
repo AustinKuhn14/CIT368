@@ -15,7 +15,7 @@ public class WeatherApp{
         //Everything from here down is from CHATGPT until the keyboard.close
 
          // Your OpenWeatherMap API key
-        String apiKey = "2a3025cca65db0a2b708856792830f9d";
+        String apiKey = "Your_API_KEY";
 
         // Build the URL for the API request to get the 3-day forecast (5-day with 3-hour intervals)
         String apiUrl = "https://api.openweathermap.org/data/2.5/forecast?zip=" + Zip + "&appid=" + apiKey + "&units=imperial";
