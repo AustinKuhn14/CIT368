@@ -1,0 +1,18 @@
+[2025-05-06 11:54:58] ZIP Code: 17701
+Response: Weather forecast for the next 3 days:
+
+Day 1 (2025-05-06 18:00:00):
+Temperature: 67.4°F
+Humidity: 80%
+Condition: light rain
+
+Day 2 (2025-05-07 18:00:00):
+Temperature: 68.8°F
+Humidity: 47%
+Condition: scattered clouds
+
+Day 3 (2025-05-08 18:00:00):
+Temperature: 65.0°F
+Humidity: 78%
+Condition: light rain
+--------------------------------------------------
