@@ -7,7 +7,7 @@ forecasts (including minute-by-minute hyperlocal precipitation), and historical 
 5 Day / 3 Hour Forecast API
 
 Threat Modeling:
-A threat that wouldn't be handled would be because of my dependency on T=the external API. If anything were to happen to their service the program would no longer work.
+A threat that wouldn't be handled would be because of my dependency on the external API. If anything were to happen to their service the program would no longer work.
 
 1. If my API Key was leaked, people would be able to freely use it without my knowledge. By storing it in a secret location its not freely given in the code.
 2. Input Validation is another threat that was fixed, by making sure that a zip is only accepted and sent out if it has valid looking zip code
